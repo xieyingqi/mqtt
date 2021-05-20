@@ -1,0 +1,7 @@
+{
+	"files.associations": {
+		"mqttclient.h": "c",
+		"includes.h": "c",
+		"mqttasync.h": "c"
+	}
+}
